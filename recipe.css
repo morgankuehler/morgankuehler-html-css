@@ -77,11 +77,9 @@ ol {
   border-bottom: grey dotted 1px;
   float: left;
   width: 48%;
-  margin-left: 10px;
 } 
 
-#nutrition li: nth-child(odd) {
-  clear: both;
+#nutrition li:nth-child(odd) {
   margin-right: 10px;
 }
 
